@@ -1,4 +1,4 @@
-// ignore_for_file: non_constant_identifier_names, unused_local_variable
+// ignore_for_file: non_constant_identifier_names, unused_local_variable, unnecessary_new
 import 'dart:io';
 
 import '../bin/fonctions/functions_path.dart';
